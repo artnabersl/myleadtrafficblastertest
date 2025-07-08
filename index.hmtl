@@ -6,7 +6,7 @@
     <title>How [Name] Made $195,706 in 90 Days (Video Proof)</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;  
+            font-family: 'Arial', sans-serif; 
             background-color: #0a0a0a;
             color: white;
             margin: 0;
@@ -144,7 +144,7 @@
                 <input type="hidden" name="lllid" value="110385">
                 <input type="hidden" name="lluid" value="sandyarta">
                 <input type="hidden" name="redirect" value="">
-                <input type="hidden" name="source" value="trafficblaster1dollar">
+                <input type="hidden" name="source" value="testtrafficblaster">
                 <button class="submit-btn" type="submit">GIVE ME ACCESS NOW</button>
             </form>
             
